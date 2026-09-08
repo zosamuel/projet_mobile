@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555913529829",
+    "project_id": "gestion-users-mobile",
+    "storage_bucket": "gestion-users-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555913529829:android:7c88e50856de1241e8870c",
+        "android_client_info": {
+          "package_name": "com.example.application0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvCkE_9tbYGa4Bk0dFbWQXtKGNxq8BJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
